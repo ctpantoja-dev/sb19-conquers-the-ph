@@ -9,6 +9,12 @@ import os
 
 import streamlit as st
 
+st.set_page_config(
+    page_title="SB19 Conquers the Philippines",
+    page_icon="🧊",
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
 
 list_of_pages = [
     "Making SB19 the best-selling artist in the Philippines",
