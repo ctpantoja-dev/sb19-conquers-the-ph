@@ -18,17 +18,24 @@ st.set_page_config(
 
 list_of_pages = [
     "Making SB19 the best-selling artist in the Philippines",
-    "PH Spotify Top 200",
-    "Genres that dominated the PH Top 200",
-    "Audio features of each genre",
-    "SB19 Ranking in Spotify daily Top 200",
-    "SB19 songs in Spotify Top 200",
-    "Analysing SB19 songs",
-    "SB19 Competitors",
-    "Make SB19 the most listend artist on Spotify",
-    "Suggested collaborations",
+    "Who is SB19?",
+    "SB19 should be a successful mainstream artist, right?",
+    "SB19 daily streams from 2019 to 2022",
+    "How do we make SB19 a mainstay on Spotify Top 200 Daily Charts?",
+    "What is a Mainstay?",
+    "MAPA vs 2021 Top 5 Mainstays",
+    "Genres that dominated the Top 200 Daily Charts",
+    "SB19 songs genres",
+    "SB19 vs 2021 Mainstay EDM Artists",
+    "SB19 vs 2021 Mainstay Pop Artists",
+    "Recommendations",
     "Suggested song genre",
-    "Best time to release album/single"
+    "Suggested collaborations",
+    "Remake a mainstay",
+    "When best to release and album/single",
+    "Increase and sustain SB19's visibility in social media",
+    "Thank You!",
+    "The Team"
 ]
 
 selection = st.sidebar.radio("", list_of_pages)
