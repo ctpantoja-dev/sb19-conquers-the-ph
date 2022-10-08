@@ -34,6 +34,7 @@ list_of_pages = [
     "Remake a mainstay",
     "When best to release and album/single",
     "Increase and sustain SB19's visibility in social media",
+    "Some of Sara Geronimo's tracks and Tala",
     "Thank You!",
     "The Team"
 ]
